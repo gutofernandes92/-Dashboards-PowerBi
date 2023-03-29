@@ -1,4 +1,5 @@
-Sua empresa deseja teruma visão das receitas e despesas e solicitou que você criasse um Dashboard que permita analisar os seguintes indicadores financeiros:
+Sua empresa deseja teruma visão das receitas e despesas e solicitou que 
+você criasse um Dashboard que permita analisar os seguintes indicadores financeiros:
 
 1-Total de Receitas
 2-Total de Despesas
