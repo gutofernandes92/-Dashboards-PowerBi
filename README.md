@@ -1,4 +1,4 @@
-# -Dashboards-PowerBi
+# Dashboards PowerBi
 
 Repositório de Dashboards feitas em Power BI.
 
